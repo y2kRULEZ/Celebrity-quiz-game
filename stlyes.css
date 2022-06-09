@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    background-color: red;
+    
+}
+
+#score{
+    width: 80%;
+    
+}
+.hide{
+    display: none;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    border-color: lightskyblue;
+    border-width: 5px;
+    border-style: solid;
+    
+}
+
+
