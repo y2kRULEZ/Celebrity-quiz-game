@@ -105,6 +105,7 @@ function nextQuestion(event){
     if (index === 5) {
         viewEL.classList.add("hide")
         initEL.classList.remove("hide")
+        timerEL.classList.add("hide")
         
 
         
@@ -125,7 +126,7 @@ function displayHighscore() {
     
     initEL.classList.add("hide")
     dashboardEL.classList.remove('hide')
-    timeRemaining=""
+    
     
 }
 

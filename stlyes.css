@@ -13,11 +13,13 @@ header{
 }
 
 main{
+    
     display: flex;
     justify-content: center;
     border-color: lightskyblue;
-    border-width: 5px;
+    border-width: 4 px;
     border-style: solid;
+    margin-top: 10%;
     
 }
 
